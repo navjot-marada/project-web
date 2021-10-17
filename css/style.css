@@ -6,4 +6,23 @@ body{
     font-family: 'Fleur De Leah', cursive;
     font-size: 35px;
 }
+.passport{
+    height: 50%;
 
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.fourms{
+    text-align: center;
+    font-size: 2em;
+    margin-top: 1em;
+}
+.blog{
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
